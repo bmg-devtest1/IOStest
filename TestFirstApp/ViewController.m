@@ -18,7 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //I am adding additional code to test the application
+    //Adding second row and test to find out the result
     NSLog(@"Hello app Campers");
+    NSLog(@"Bienvenue au Quebec");
 }
 
 - (void)didReceiveMemoryWarning {
